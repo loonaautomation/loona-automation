@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://loonaautomation.github.io/loona-automation/sitemap.xml
+Sitemap: https://studio.loonaautomation.com/sitemap.xml
