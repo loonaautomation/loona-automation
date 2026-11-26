@@ -5,9 +5,9 @@
 
 I build **free AI tools and automations** that solve real problems — for teachers, small businesses, and people who cannot read. Everything below is live, working, and free to use.
 
-## 🌐 Main Website — [loonaautomation.github.io](https://loonaautomation.github.io/)
+## 🌐 Main Website — [loonaautomation.com](https://loonaautomation.com/)
 
-**All 16 Loona tools & AI services in one place → [Visit Loona Automation](https://loonaautomation.github.io/)**
+**All 16 Loona tools & AI services in one place → [Visit Loona Automation](https://loonaautomation.com/)**
 
 ---
 
@@ -15,15 +15,15 @@ I build **free AI tools and automations** that solve real problems — for teach
 
 | Project | What it does | Try it |
 |---|---|---|
-| **Loona QR Codes** | Free QR code generator — 30+ QR types (links, WiFi, WhatsApp, payments & more). No expiry, no signup, no watermark | [Live](https://loonaautomation.github.io/loona-qr-codes/) |
-| **Loona AI** | Free all-in-one AI assistant — chat, photo understanding & voice in English, Urdu and Roman Urdu | [Live](https://loonaautomation.github.io/Loona-AI/) |
-| **AgentA** | Give it a task — it plans, executes step by step, and delivers the finished result | [Live](https://loonaautomation.github.io/AgentA/) |
-| **Loona Autopilot** | AI Office Manager — customer messages understood, leads scored, replies sent automatically | [Live](https://loonaautomation.github.io/Loona-Autopilot/) |
-| **Loona AI Notes** | Free AI toolkit for teachers — MCQs, lesson plans, notes, Q&A & exam papers (Punjab & Federal boards, Classes 1–12) | [Live](https://loonaautomation.github.io/Loona-AI-Notes/) |
-| **Loona Bolti Kitab** | Photograph any textbook page — AI reads it aloud in simple Urdu, for those who cannot read | [Live](https://loonaautomation.github.io/Loona-Bolti-Kitab/) |
-| **Loona Calling Agent** | AI calling agent showcase with simulated-call demos for hotels, clinics & restaurants | [Live](https://loonaautomation.github.io/Loona-Calling-Agent/) |
+| **Loona QR Codes** | Free QR code generator — 36 QR types (links, WiFi, WhatsApp, payments & more). No expiry, no signup, no watermark | [Live](https://qr.loonaautomation.com/) |
+| **Loona AI** | Free all-in-one AI assistant — chat, photo understanding & voice in English, Urdu and Roman Urdu | [Live](https://ai.loonaautomation.com/) |
+| **AgentA** | Give it a task — it plans, executes step by step, and delivers the finished result | [Live](https://agenta.loonaautomation.com/) |
+| **Loona Autopilot** | AI Office Manager — customer messages understood, leads scored, replies sent automatically | [Live](https://autopilot.loonaautomation.com/) |
+| **Loona AI Notes** | Free AI toolkit for teachers — MCQs, lesson plans, notes, Q&A & exam papers (Punjab & Federal boards, Classes 1–12) | [Live](https://ai-notes.loonaautomation.com/) |
+| **Loona Speaking Book** | Photograph any textbook page — AI reads it aloud in simple Urdu, for those who cannot read | [Live](https://speaking-book.loonaautomation.com/) |
+| **Loona Calling Agent** | AI calling agent showcase with simulated-call demos for hotels, clinics & restaurants | [Live](https://calling-agent.loonaautomation.com/) |
 
-**More live tools:** [Loona LeadScore](https://loonaautomation.github.io/Loona-LeadScore/) · [Loona Ad Studio](https://loonaautomation.github.io/Loona-Ad-Studio/) · [Loona Talk](https://loonaautomation.github.io/Loona-Talk/) · [Loona Education](https://loonaautomation.github.io/Loona-Education/) · [Loona Voiceover](https://loonaautomation.github.io/Loona-Voiceover/) · [Loona Edits](https://loonaautomation.github.io/Loona-Edits/) · [Loona Image Compressor](https://loonaautomation.github.io/Loona-Image-Compressor/) · [Habits App](https://loonaautomation.github.io/Loona-Habits-App/) · [Expense App](https://loonaautomation.github.io/Loona-Expense-App/)
+**More live tools:** [Loona LeadScore](https://leadscore.loonaautomation.com/) · [Loona Ad Studio](https://ad-studio.loonaautomation.com/) · [Loona Talk](https://talk.loonaautomation.com/) · [Loona Education](https://education.loonaautomation.com/) · [Loona Voiceover](https://voiceover.loonaautomation.com/) · [Loona Edits](https://edits.loonaautomation.com/) · [Loona Image Compressor](https://image.loonaautomation.com/) · [Habits App](https://habits.loonaautomation.com/) · [Expense App](https://finance.loonaautomation.com/)
 
 ---
 
